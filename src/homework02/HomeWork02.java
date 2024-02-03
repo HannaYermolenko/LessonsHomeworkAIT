@@ -5,7 +5,7 @@ public class HomeWork02 {
         System.out.println("Hello World!");
         System.out.println("Helo Cohort 41");
         System.out.println("Gute Nacht!");
-        String name = "Hanna";
+        String name = "Hanna Hanna";
 
         int age = 35;
 
