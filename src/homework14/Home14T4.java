@@ -25,7 +25,7 @@ public class Home14T4 {
             char secondChar = Character.toUpperCase(str.charAt(1));
             return " " + secondChar + " ";
         }else {
-            return str.charAt(0) + " ";
+            return " 0 ";
         }
     }
 
