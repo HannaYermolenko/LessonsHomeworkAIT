@@ -20,12 +20,10 @@ public class Home14T1 {
             System.out.println("Wrong index");
             return;
         }
-        for (int i = 0; i < array.length; i++){
             int temp = array[searchValue1];
             array[searchValue1] = array[searchValue2];
             array[searchValue2] = temp;
-        }
-        System.out.println(" Villeicht alles gut");
+        System.out.println("Alles gut");
 
 
 
