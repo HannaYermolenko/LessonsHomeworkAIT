@@ -11,7 +11,7 @@ public class FortePiano {
     public FortePiano(String pianoName) { name = pianoName;}
 
     public void clarifications(){
-        System.out.println("Production: " + production + "Material: " + material);
+        System.out.println("Production: " + production + "Material: " + material + "Color: " + color);
     }
     public void numbers(){
         System.out.println("Weight kg: " + weight + "Prise $: " + prise);
