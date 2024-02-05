@@ -24,6 +24,10 @@ public class FortePiano {
         System.out.println("Play only with your hands only!!!!!!!!!");
     }
 
+    public void specialReguirements(){
+        System.out.println("You won't to play on subway. Need a lot of space.");
+    }
+
 
 
 }
